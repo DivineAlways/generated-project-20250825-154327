@@ -1,0 +1,61 @@
+{
+  "modules": [
+    {
+      "title": "Module 1: Prompt Engineering for Provocateurs",
+      "description": "Learn to craft prompts that don't just generate text, but create controversy, conversation, and clicks. This is where you master the machine's voice.",
+      "lessons": [
+        "The Art of the 'Spicy' Seed Prompt",
+        "Tone & Persona Injection Techniques",
+        "Bypassing Filters (Ethically)",
+        "Generating Viral Hooks and Headlines"
+      ]
+    },
+    {
+      "title": "Module 2: AI-Powered Visual Shock & Awe",
+      "description": "Text is only half the battle. Create jaw-dropping visuals, memes, and video concepts that stop the scroll and demand a reaction.",
+      "lessons": [
+        "Midjourney for Hyper-Stylized Aesthetics",
+        "Crafting Unforgettable Brand Imagery",
+        "AI Video Shorts: From Script to Screen",
+        "Meme Magic: Engineering Virality"
+      ]
+    },
+    {
+      "title": "Module 3: Monetizing Your Digital Ghost",
+      "description": "Turn your edgy AI content into a reliable income stream. We cover everything from brand deals to digital products, tailored for the AI-native creator.",
+      "lessons": [
+        "Building an Audience That Pays",
+        "Sponsored Content Without Selling Out",
+        "Creating & Selling AI Art/Digital Products",
+        "The Automated Content Funnel"
+      ]
+    },
+    {
+      "title": "Module 4: The Ethics of AI Influence",
+      "description": "With great power comes great responsibility. Learn to navigate the tricky ethical landscape of AI content, build trust, and create a sustainable brand.",
+      "lessons": [
+        "Disclosure & Transparency Best Practices",
+        "Avoiding the Uncanny Valley",
+        "Handling AI-Generated Controversy",
+        "Future-Proofing Your Creator Career"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "I thought I knew AI. This course showed me the dark arts. My engagement is up 300% and I finally landed a brand deal that gets my vibe.",
+      "name": "Jenna \"Glitched\" Ortiz",
+      "handle": "@DigitalGoddess"
+    },
+    {
+      "quote": "The 'Prompt Engineering for Provocateurs' module alone was worth the price. I'm creating content I never thought possible. It's like a cheat code for creativity.",
+      "name": "Cody Banks",
+      "handle": "@AIEcho"
+    },
+    {
+      "quote": "Forget boring, generic AI content. This course teaches you how to give your creations a soul... a spicy, slightly unhinged soul. 10/10 would recommend.",
+      "name": "Anya Petrova",
+      "handle": "@CyberAnya"
+    }
+  ]
+}
